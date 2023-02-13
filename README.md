@@ -1,2 +1,1 @@
-<h1>CHECK this out</h1>
-https://cadalo-github-io.vercel.app
+<h1>Hi 👋 I'm Karen Cadalo a.k.a Krunxx 👾 <h1
